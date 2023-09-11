@@ -1,3 +1,3 @@
 # .gignore
 #Python
-pydoh/_pycache_
+**/__pycache__
