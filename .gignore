@@ -1,0 +1,3 @@
+# .gignore
+#Python
+__pycache__
